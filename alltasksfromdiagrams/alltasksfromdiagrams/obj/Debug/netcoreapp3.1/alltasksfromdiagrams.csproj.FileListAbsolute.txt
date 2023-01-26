@@ -1,0 +1,14 @@
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\bin\Debug\netcoreapp3.1\alltasksfromdiagrams.exe
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\bin\Debug\netcoreapp3.1\alltasksfromdiagrams.deps.json
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\bin\Debug\netcoreapp3.1\alltasksfromdiagrams.runtimeconfig.json
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\bin\Debug\netcoreapp3.1\alltasksfromdiagrams.runtimeconfig.dev.json
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\bin\Debug\netcoreapp3.1\alltasksfromdiagrams.dll
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\bin\Debug\netcoreapp3.1\alltasksfromdiagrams.pdb
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.csproj.AssemblyReference.cache
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.AssemblyInfoInputs.cache
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.AssemblyInfo.cs
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.csproj.CoreCompileInputs.cache
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.dll
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.pdb
+C:\Users\xudiy\source\repos\alltasksfromdiagrams\alltasksfromdiagrams\obj\Debug\netcoreapp3.1\alltasksfromdiagrams.genruntimeconfig.cache

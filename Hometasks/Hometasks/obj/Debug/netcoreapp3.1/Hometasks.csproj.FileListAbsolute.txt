@@ -1,0 +1,14 @@
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\bin\Debug\netcoreapp3.1\Hometasks.exe
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\bin\Debug\netcoreapp3.1\Hometasks.deps.json
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\bin\Debug\netcoreapp3.1\Hometasks.runtimeconfig.json
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\bin\Debug\netcoreapp3.1\Hometasks.runtimeconfig.dev.json
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\bin\Debug\netcoreapp3.1\Hometasks.dll
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\bin\Debug\netcoreapp3.1\Hometasks.pdb
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.csproj.AssemblyReference.cache
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.AssemblyInfoInputs.cache
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.AssemblyInfo.cs
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.csproj.CoreCompileInputs.cache
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.dll
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.pdb
+C:\Users\xudiy\source\repos\Hometasks\Hometasks\obj\Debug\netcoreapp3.1\Hometasks.genruntimeconfig.cache
