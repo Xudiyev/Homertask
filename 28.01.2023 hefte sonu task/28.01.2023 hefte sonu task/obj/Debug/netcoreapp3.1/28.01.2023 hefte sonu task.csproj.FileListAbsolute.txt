@@ -1,0 +1,14 @@
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\bin\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.exe
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\bin\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.deps.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\bin\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.runtimeconfig.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\bin\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.runtimeconfig.dev.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\bin\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\bin\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.csproj.AssemblyReference.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.AssemblyInfoInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.AssemblyInfo.cs
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.csproj.CoreCompileInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\28.01.2023 hefte sonu task\28.01.2023 hefte sonu task\obj\Debug\netcoreapp3.1\28.01.2023 hefte sonu task.genruntimeconfig.cache
