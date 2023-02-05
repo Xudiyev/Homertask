@@ -1,0 +1,14 @@
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\bin\Debug\netcoreapp3.1\Tekrarlamaq.exe
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\bin\Debug\netcoreapp3.1\Tekrarlamaq.deps.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\bin\Debug\netcoreapp3.1\Tekrarlamaq.runtimeconfig.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\bin\Debug\netcoreapp3.1\Tekrarlamaq.runtimeconfig.dev.json
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\bin\Debug\netcoreapp3.1\Tekrarlamaq.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\bin\Debug\netcoreapp3.1\Tekrarlamaq.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.csproj.AssemblyReference.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.AssemblyInfoInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.AssemblyInfo.cs
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.csproj.CoreCompileInputs.cache
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.dll
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.pdb
+C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\Tekrarlamaq\Tekrarlamaq\obj\Debug\netcoreapp3.1\Tekrarlamaq.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: 05.02.2023 Task, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>05.02.2023 Task -> C:\Users\xudiy\OneDrive\Рабочий стол\code task home to git\homeCodeTask\31.01.2023\05.02.2023 Task\05.02.2023 Task\bin\Debug\netcoreapp3.1\05.02.2023 Task.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00,566 ==========
