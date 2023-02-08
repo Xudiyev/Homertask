@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\05.02.2023 Task\\05.02.2023 Task\\05.02.2023 Task.csproj": {}
+    "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\08.02.2023\\08.02.2023\\08.02.2023.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\05.02.2023 Task\\05.02.2023 Task\\05.02.2023 Task.csproj": {
+    "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\08.02.2023\\08.02.2023\\08.02.2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\05.02.2023 Task\\05.02.2023 Task\\05.02.2023 Task.csproj",
-        "projectName": "05.02.2023 Task",
-        "projectPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\05.02.2023 Task\\05.02.2023 Task\\05.02.2023 Task.csproj",
+        "projectUniqueName": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\08.02.2023\\08.02.2023\\08.02.2023.csproj",
+        "projectName": "08.02.2023",
+        "projectPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\08.02.2023\\08.02.2023\\08.02.2023.csproj",
         "packagesPath": "C:\\Users\\xudiy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\05.02.2023 Task\\05.02.2023 Task\\obj\\",
+        "outputPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\08.02.2023\\08.02.2023\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xudiy\\AppData\\Roaming\\NuGet\\NuGet.Config",
