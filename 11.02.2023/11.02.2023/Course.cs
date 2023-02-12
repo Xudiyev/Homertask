@@ -8,11 +8,11 @@ namespace _11._02._2023
 {
     internal class Course
     {
-        string _addGroup;
-        string _groups;
-        string _getGroupByNo;
-        double _getGroupsByPonitRange;
-        string _search;
+        //string _addGroup;
+        //string _groups;
+        //string _getGroupByNo;
+        //double _getGroupsByPonitRange;
+        //string _search;
 
        
 

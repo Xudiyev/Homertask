@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\11.02.2023\\11.02.2023\\11.02.2023.csproj",
+      "projectUniqueName": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\11.02.2023\\11.02.2023\\11.02.2023.csproj",
       "projectName": "11.02.2023",
-      "projectPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\11.02.2023\\11.02.2023\\11.02.2023.csproj",
+      "projectPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\11.02.2023\\11.02.2023\\11.02.2023.csproj",
       "packagesPath": "C:\\Users\\xudiy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\11.02.2023\\11.02.2023\\obj\\",
+      "outputPath": "C:\\Users\\xudiy\\OneDrive\\Рабочий стол\\code task home to git\\homeCodeTask\\11.02.2023\\11.02.2023\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\xudiy\\AppData\\Roaming\\NuGet\\NuGet.Config",
