@@ -6,7 +6,7 @@ namespace _08._02._2023
 {
     internal class Engineer:Employee
     {
-
+ 
         public override double Salary
         {
             get

@@ -9,7 +9,7 @@ namespace _31._01._2023
         static void Main(string[] args)
         {
 
-            var newtext = RemoveStar("   salam usaglar necesiz?");
+            var newtext = RemoveStartSpaces("   salam usaglar necesiz?");
             Console.WriteLine(newtext);
 
 
@@ -21,40 +21,34 @@ namespace _31._01._2023
 
         //Verilmiş yazının əvvəlindəki boşluqları silib qayataran metod
 
-        static string RemoveStar(string text)
+        static int FindFirstNonSpace(string str)
         {
-            string word = "";
-            int count = 0;
-
-            for (int i = count; i < text.Length; i++)
+            for (int i = 0; i < str.Length; i++)
             {
-                if (text[i] ! == ' ')
-                {
-                    break;
-                }
-                else
-                {
-                    word += text[i];
-                }
-                for (i = count; i < text.Length; i++)
-                {
-                    if (text[i]! == ' ')
-                    {
-                        word += text[i];
-                    }
-
-
-                }
-
-
-
-
-
+                if (str[i] != ' ')
+                    return i;
             }
 
-            return word;
-
+            return -1;
         }
+        static string RemoveStartSpaces(string str)
+        {
+            string newStr = "";
+
+            var firstIndex = FindFirstNonSpace(str);
+
+            if (firstIndex == -1)
+                return newStr;
+
+            for (int i = firstIndex; i < str.Length; i++)
+            {
+                newStr += str[i];
+            }
+
+            return newStr;
+        }
+
+    
 
         // Verilmiş ədədlər siyahısından yalnız müsbət ədədlərindən ibarət yeni bir array düzəldib qaytaran metod
 

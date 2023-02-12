@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Dynamic;
 
 namespace _08._02._2023
 {
@@ -21,23 +22,44 @@ namespace _08._02._2023
 
 
 
-            Console.WriteLine("Engineer count");
-            int count = Convert.ToInt32(Console.ReadLine());
-            Engineer[] engineers = new Engineer[count];
+            //Console.WriteLine("Engineer count");
+            //int count = Convert.ToInt32(Console.ReadLine());
+            Engineer[] engineers = new Engineer[0];
 
-
-            for (int i = 0; i < count; i++)
+            string ch;
+            do
             {
-                Engineer neweng = new Engineer();
+                
+                
+                    Engineer neweng = new Engineer();
 
-                Console.WriteLine("FullName: ");
-                neweng.FullName = Console.ReadLine();
-                Console.WriteLine("Salary: ");
-                neweng.Salary = Convert.ToDouble(Console.ReadLine());
+                    Console.WriteLine("FullName: ");
+                    neweng.FullName = Console.ReadLine();
 
-                engineers[i] = neweng;
+                    do
+                    {
+                        Console.WriteLine("Salary: ");
+                        neweng.Salary = Convert.ToDouble(Console.ReadLine());
 
-            }
+                    } while (neweng.Salary < 1000);
+
+
+                    Array.Resize(ref engineers, engineers.Length + 1);
+                    engineers[engineers.Length - 1] = neweng;
+
+                
+                
+
+
+                do
+                {
+                    Console.WriteLine("If you want to add new employee press y/n");
+                    ch = Console.ReadLine();
+                } while (ch != "y" && ch != "n");
+
+
+
+            } while (ch == "y"); ;
 
 
             double sum = 0;
